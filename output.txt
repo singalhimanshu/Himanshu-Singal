@@ -1,0 +1,20 @@
+Position of first set bit:
+1
+5
+
+
+Position of next set bit after the index:
+0
+2
+4
+
+
+Count no. of set bits in an interval:
+0010101010
+0001010101
+0000010101
+3
+
+
+Count no. of common elements between two arrays:
+2
