@@ -1,6 +1,6 @@
 # TheCodingGuy
 
-A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.com/channel/UCrx2je3VOgRSmr86Hbg0ACA/featured?view_as=subscriber)
+A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.com/c/TheCodingGuy)
 
 ## Playlists:
 
