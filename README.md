@@ -15,3 +15,6 @@ A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.c
     8. Bitmasking / Bitmanipulation 08 - Bitset (contd.) C++ STL for Competitive Programming [VIDEO LINK](https://www.youtube.com/watch?v=4a7-mVK9PyU&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=8) , [Bitset2](bitmasking_bitmanipulation/bitset2.cpp)
     8. Bitmasking / Bitmanipulation 08 - Bitset (contd.) C++ STL for Competitive Programming [VIDEO LINK](https://www.youtube.com/watch?v=4a7-mVK9PyU&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=8) , [Bitset2](bitmasking_bitmanipulation/bitset2.cpp)
     9. Bitmasking / Bitmanipulation 09 - Subset Sum Queries Using Bitset [VIDEO LINK](https://www.youtube.com/watch?v=4a7-mVK9PyU&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=9) , [subset_sum_queries_bitset.cpp](bitmasking_bitmanipulation/subset_sum_queries_bitset.cpp)
+ 
+- **Sequences for Competitive Programming (C++)** [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR)
+    1. Sequences 01 - Kadane's Algorithm for Maximum Subarray Sum Problem [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=2) [kadane_algo_maximum_subarray_sum.cpp](Sequences/kadaneAlgo.cpp)
