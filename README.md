@@ -18,4 +18,4 @@ A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.c
  
 - **Sequences for Competitive Programming (C++)** [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR)
     1. Sequences 01 - Kadane's Algorithm for Maximum Subarray Sum Problem [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=2) [kadane_algo_maximum_subarray_sum.cpp](Sequences/kadaneAlgo.cpp)
-    2. Sequences 02 - Kadane's Algorithm for Flipping Game (Codeforces) [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=2) [flipping_game.cpp](Sequences/flippingGame.cpp)
+    2. Sequences 02 - Kadane's Algorithm for Flipping Game (Codeforces) [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=3) [flipping_game.cpp](Sequences/flippingGame.cpp)
