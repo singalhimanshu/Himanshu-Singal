@@ -1,6 +1,6 @@
-# TheCodingGuy
+# Himanshu Singal
 
-A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.com/c/TheCodingGuy)
+A repository of code for my youtube channel [Himanshu Singal](https://www.youtube.com/c/TheCodingGuy)
 
 ## Playlists:
 
