@@ -4,7 +4,12 @@ A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.c
 
 ## Playlists:
 
-- **Bitmasking / Bitmanipulation for Competitive Programming (C++)** [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z)
+### Coding Interview Patterns
+
+- Two Pointer
+  1. Merge two sorted lists [VIDEO](https://youtu.be/vlUL73nqr8E) [CODE](./coding_interview_patterns/merge_two_sorted_lists.cpp)
+
+### Bitmasking / Bitmanipulation for Competitive Programming (C++) [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z)
     1. Bitmasking / Bitmanipulation 01- Introduction to bitwise operator for Competitive Programming [VIDEO LINK](https://www.youtube.com/watch?v=oL5bmRUbAJ4&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=2&t=14s) 
     2. Bitmasking / Bitmanipulation 02- Basic Questions on Bitmasking for Competitive Programming [VIDEO LINK](https://www.youtube.com/watch?v=mT8NAhIL3xQ&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=3&t=0s) 
     3. Bitmasking / Bitmanipulation 03- Questions on Bitmasking from hackerrank and GeeksForGeeks [VIDEO LINK](https://www.youtube.com/watch?v=aId6iahUGLI&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=3) , [Maximizing Xor](bitmasking_bitmanipulation/maximizingXor.cpp) [Unique Number 2](bitmasking_bitmanipulation/uniqueNo2.cpp) [Playing With Bits](bitmasking_bitmanipulation/playinWithBits.cpp)
@@ -16,7 +21,7 @@ A repository of code for my youtube channel [TheCodingGuy](https://www.youtube.c
     8. Bitmasking / Bitmanipulation 08 - Bitset (contd.) C++ STL for Competitive Programming [VIDEO LINK](https://www.youtube.com/watch?v=4a7-mVK9PyU&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=8) , [Bitset2](bitmasking_bitmanipulation/bitset2.cpp)
     9. Bitmasking / Bitmanipulation 09 - Subset Sum Queries Using Bitset [VIDEO LINK](https://www.youtube.com/watch?v=4a7-mVK9PyU&list=PLX0iyO9CrCF1-4je7G0JMSr_50I0J2K3Z&index=9) , [subset_sum_queries_bitset.cpp](bitmasking_bitmanipulation/subset_sum_queries_bitset.cpp)
  
-- **Sequences for Competitive Programming (C++)** [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR)
+### Sequences for Competitive Programming (C++) [VIDEO LINK](https://www.youtube.com/playlist?list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR)
     1. Sequences 01 - Kadane's Algorithm for Maximum Subarray Sum Problem [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=2) [kadane_algo_maximum_subarray_sum.cpp](Sequences/kadaneAlgo.cpp)
     2. Sequences 02 - Kadane's Algorithm for Flipping Game (Codeforces) [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=3) [flipping_game.cpp](Sequences/flippingGame.cpp)
     3. Sequences 03 - Maximum Sum Subarray with Size 'k' using Sliding Window [VIDEO LINK](https://www.youtube.com/watch?v=pkc3X7M8Xxs&list=PLX0iyO9CrCF0KUTBhzSJC8OE7gy6U47LR&index=4) [maxSumSubarrayK.cpp](Sequences/maxSumSubarrayK.cpp)
